@@ -86,13 +86,6 @@ All projects with full write-ups: **[piettrorodrigues.com/#projects](https://pie
 
 ---
 
-## 💼 Experience snapshot
-
-- **Analyticae** (Madrid, 2026 to present): co-developed an internal algorithmic momentum strategy driven by market-sentiment signals (backtesting, Monte Carlo, production deployment); built a Bronze/Silver/Gold architecture on BigQuery that cut data consumption by 90%.
-- **NTT Data** (São Paulo, 2022 to 2026): owned a Python sales-forecasting application (+20% accuracy); ML for product classification that removed 65% of manual effort.
-
----
-
 ## 📫 Let's connect
 
 Portfolio: [piettrorodrigues.com](https://piettrorodrigues.com/) · LinkedIn: [piettro-rodrigues](https://www.linkedin.com/in/piettro-rodrigues/) · Email: piettroenrico@hotmail.com
