@@ -23,8 +23,6 @@
 Economist turned quantitative researcher. I build and test systematic strategies, risk models and ML pipelines for financial markets, with a focus on **rigorous validation** (no look-ahead, realistic costs and latency, out-of-sample checks) and **reproducible code**.
 
 - 🎓 Master's in **AI & Quantum Computing Applied to Financial Markets** at Instituto BME (2025–2027)
-- 💼 **Business Analyst at Analyticae**: algorithmic strategy, backtesting and production data pipelines
-- 🚀 Founder of **Momentum**, a B2B fintech SaaS focused on tools for building investment strategies
 - 📜 Financial Advisor Certification (MIAX, Instituto BME), accredited by the CNMV under MiFID II
 - 🔎 Open to opportunities in **quantitative research** and **data science**
 
